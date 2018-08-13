@@ -1,0 +1,24 @@
+{
+  "name": "webtech2",
+  "version": "1.0.0",
+  "description": "Realtime scoreboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sisiboi/Scoreboard.git"
+  },
+  "author": "Sisiboi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sisiboi/Scoreboard/issues"
+  },
+  "homepage": "https://github.com/Sisiboi/Scoreboard#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
